@@ -41,7 +41,7 @@ This workshop project will run you through the following steps:
 
 	```bash
 	python -m venv ./venv
-	source ./venv/bin/activate
+	source ./venv/Scrips/activate
 	```
 5. Update pip and install the neccessary dbt packages and PipeRider
 
